@@ -1,0 +1,6 @@
+
+Proteger credenciales.
+Usar conexiones seguras.
+Registrar accesos.
+No compartir información sensible.
+No exponer datos personales.

@@ -1,0 +1,4 @@
+Utilizar contraseñas seguras y protegerlas.
+No compartir contraseñas en plataformas publicas.
+Mantener software actualizado.
+

@@ -1,0 +1,11 @@
+uname -a
+MINGW64_NT-10.0-26200 Lu 3.6.7-fb42d713.x86_64 2026-03-29 11:44 UTC x86_64 Msys
+
+
+Muestra una descripción completa del sistema operativo y del núcleo (kernel) de Linux. Incluye el nombre del host (nodo), la versión del kernel, la arquitectura del procesador (por ejemplo, x86_64) y la fecha de compilación del sistema.
+
+
+
+$ whoami
+Omayra 1
+Muestra exactamente el nombre del usuario con el que tienes la sesión activa en la terminal en ese momento
